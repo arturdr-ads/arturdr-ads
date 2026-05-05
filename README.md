@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Artur (arturdr-ads)
 
+![Foto de Artur](https://avatars.githubusercontent.com/u/179637406?v=4)
+
 ## 🚀 Infrastructure Operator & No-Code Developer
 
 ### 🔍 About Me
