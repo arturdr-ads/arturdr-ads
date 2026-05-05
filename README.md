@@ -1,31 +1,30 @@
-# 👋 Hi, I'm Artur (arturdr-ads)
+# Olá! Eu sou Artur 👋
 
 ![Foto de Artur](https://avatars.githubusercontent.com/u/179637406?v=4)
 
-## 🚀 Infrastructure Operator & No-Code Developer
+## 🚀 Especialista em Marketing Digital & IA
 
-### 🔍 About Me
-I build and manage automated cloud infrastructure with **Hermes Agent** (autonomous AI operator) and **Oracle Cloud Infrastructure (OCI)**. Focused on zero-downtime deployments, secure configurations, and self-healing systems.
+Ajudo empresas a escalar seus resultados através de **tráfego pago inteligente** e **automação com Inteligência Artificial**.
 
-### 💻 Tech Stack
-![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-00A6ED?style=flat&logo=ai)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat&logo=oracle)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![Caddy](https://img.shields.io/badge/Caddy-8A2BE2?style=flat&logo=caddy)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions)
-![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=flat&logo=letsencrypt)
+### 💡 Meus Serviços
+- 🎯 **Gestão de Tráfego Pago:** Google Ads, Meta Ads e campanhas de alta performance.
+- 🤖 **Automação com IA:** Implementação de soluções no-code para otimizar processos de marketing.
+- ☁️ **Infraestrutura de Alta Performance:** Sites e landing pages rápidas e seguras na Oracle Cloud.
+- 📊 **Análise de Dados:** Dashboards e relatórios para decisões baseadas em dados.
 
-### 📦 Featured Projects
-- 🔧 [hermes-infra](https://github.com/arturdr-ads/hermes-infra): Private repository for OCI infrastructure configurations, Hermes Agent skills, and deployment scripts.
-- 🌐 [openads.ia.br](https://openads.ia.br): Live ad-tech platform hosted on OCI, served via Caddy with Let's Encrypt SSL.
+### 🛠️ Tech Stack & Ferramentas
+![OpenAds](https://img.shields.io/badge/OpenAds.ia.br-FF6B6B?style=for-the-badge&logo=internetexplorer)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google-ads)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=meta)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-00A6ED?style=for-the-badge&logo=ai)
 
-### 🛠️ Current Work
-- Automating OCI VPS management with Hermes Agent (Solo Operator Protocol)
-- Developing no-code ad-tech solutions for Brazilian market
-- Keeping infrastructure secure with least-privilege IAM policies
+### 🌐 Projetos em Destaque
+- 🚀 **[OpenAds](https://openads.ia.br):** Plataforma de anúncios inteligentes com foco no mercado brasileiro.
+- 🛠️ **[Hermes Infra](https://github.com/arturdr-ads/hermes-infra):** Infraestrutura automatizada para serviços de cloud.
 
-### 📫 Contact
-- 📧 Email: arturdr@gmail.com
-- 🌐 Website: [openads.ia.br](https://openads.ia.br)
-- 🐙 GitHub: [@arturdr-ads](https://github.com/arturdr-ads)
+### 📫 Vamos conversar?
+- 📧 **Email:** arturdr@gmail.com
+- 🌐 **Site:** [openads.ia.br](https://openads.ia.br)
+- 🐙 **GitHub:** [@arturdr-ads](https://github.com/arturdr-ads)
